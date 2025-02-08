@@ -40,7 +40,7 @@
 ## 联系方式
 如有隐私相关问题，请通过以下方式联系：
 - GitHub Issues: https://github.com/417294448/mini-stock-view-privacy/issues
-- Email: shxiao@qq.com
+- Email: xsh417294448@gmail.com
 
 ## 政策更新
 我们保留更新本隐私政策的权利，更新时会在此页面发布新的内容。
