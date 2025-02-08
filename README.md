@@ -1,0 +1,1 @@
+# mini-stock-view-privacy
